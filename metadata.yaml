@@ -1,0 +1,27 @@
+_repo: Nitro-Explosives--A-Practical-Treatise_15308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanford, P. Gerald (Percy Gerald)
+    alias: Sanford, Percy Gerald
+    gutenberg_agent_id: '5989'
+    url: http://www.gutenberg.org/2009/agents/5989
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Explosives'
+- !lcsh 'Celluloid'
+title: 'Nitro-Explosives: A Practical Treatise'
+url: http://www.gutenberg.org/ebooks/15308
