@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5989'
     url: http://www.gutenberg.org/2009/agents/5989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15308#Nitro-Explosives--A-Practical-Treatise
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-03-10'
 gutenberg_type: Text
